@@ -8,3 +8,5 @@ I am a Software Engineer who develop with Python.
 - **python/cpython**: [Commits](https://github.com/python/cpython/commits?author=furkanonder)
 - **python/peps**: [Commits](https://github.com/python/peps/commits?author=furkanonder)
   
+## Talks
+- [Instrumenting CPython with eBPF - EuroPython 2023](https://www.youtube.com/watch?v=sjSpbRFtKjc)
